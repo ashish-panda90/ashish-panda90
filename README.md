@@ -1,6 +1,6 @@
 ## Hi there 👋
-🌱 I have rich experience in Process excellence, Program Management, Agile etc. :)
-🌱 I’m currently learning Data Science & Business Analytics with Generative AI
+- 🌱 I have rich experience in Process excellence, Program Management, Agile etc. :)
+- 🌱 I’m currently learning Data Science & Business Analytics with Generative AI
 
 
 <!--
