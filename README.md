@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 I have rich experience in Process excellence, Program Management, Agile etc. :)
+🌱 I’m currently learning Data Science & Business Analytics with Generative AI
+
 
 <!--
 **ashish-panda90/ashish-panda90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
